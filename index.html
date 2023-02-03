@@ -56,9 +56,9 @@
 
     <!-- Container -->
     <div class="container">
+      <!-- Config -->
       <div class="row d-flex justify-content-center mt-5 mb-5">
         <div class="col-md-8">
-          <!-- Config -->
           <div id="config" class="row d-flex justify-content-center">
             <div class="col">
               <!-- Inputs -->
@@ -114,10 +114,58 @@
               </div>
               <!-- /Botão Iniciar -->
             </div>
-            <!-- /Config -->
           </div>
         </div>
       </div>
+      <!-- /Config -->
+      <!-- Timer -->
+      <div
+        id="timer"
+        class="mt-0 d-flex justify-content-center"
+        style="display: none"
+      >
+        <div class="row mb-3">
+          <div class="col">
+            <h3 id="title" class="text-center text-secundary"></h3>
+          </div>
+        </div>
+
+        <div class="row shadow time">
+          <div class="col-5 p-0">
+            <h2 id="minutes_ok"></h2>
+          </div>
+
+          <div class="col-1 p-0 d-flex justify-content-center">
+            <h2>:</h2>
+          </div>
+
+          <div class="col-5 pl-0">
+            <h2 id="seconds_ok"></h2>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <div class="col">
+            <h3 id="title_sessao" class="text-center text-secondary"></h3>
+          </div>
+        </div>
+      </div>
+      <!-- /Timer -->
+
+      <!-- Finalização -->
+      <div id="fim" style="display: none">
+        <h1 class="text-sucess text-center">
+          Parabéns! Você Finalizou suas Tarefas.
+        </h1>
+        <div class="row mt-5 mb-5 d-flex justify-content-center">
+          <div class="col-md-9 d-flex justify-content-center">
+            <a href="./index.html" class="btn btn-danger shadow btn-lg"
+              >Início</a
+            >
+          </div>
+        </div>
+      </div>
+      <!-- /Finalização -->
     </div>
     <!-- /Container -->
 
