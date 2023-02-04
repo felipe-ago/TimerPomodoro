@@ -34,7 +34,7 @@
       >
 
       <div class="ml-auto">
-        <a href="">
+        <a onclick="pausar()">
           <i
             id="pause"
             class="fa fa-pause text-white"
@@ -42,7 +42,7 @@
             aria-hidden="true"
           ></i>
         </a>
-        <a href="">
+        <a onclick="executar()">
           <i
             id="play"
             class="fa fa-play text-white"
@@ -156,6 +156,7 @@
           </div>
         </div>
         <!-- /Relógio -->
+
         <div class="row mt-5">
           <div class="col">
             <h3 id="title_sessao" class="text-center text-secondary"></h3>
@@ -166,7 +167,7 @@
 
       <!-- Finalização -->
       <div id="fim" style="display: none">
-        <h1 class="text-sucess text-center">
+        <h1 class="text-success text-center">
           Parabéns! Você Finalizou suas Tarefas.
         </h1>
         <div class="row mt-5 mb-5 d-flex justify-content-center">
