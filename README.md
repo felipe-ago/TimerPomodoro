@@ -1,7 +1,7 @@
 <h1 align="center"> Timer Pomodoro </h1>
 
 <p align="center">
-Timer Pomodoro é um projeto desenvolvido para auxiliar nconcetração de afazeres que requerem um foco maior para serem desempenhados. <br/>
+Timer Pomodoro é um projeto desenvolvido para auxiliar na concetração de afazeres que requerem um foco maior para serem desempenhados. <br/>
 </p>
 
 <p align="center">
