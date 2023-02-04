@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Timer Pomodoro é uma pagina que auxilia os usuários a focarem em seus afazeres utilizando o Método de Pomodoro.
 
-- [Visite o projeto online](https://felipe-ago.github.io/timerpomodoro/)
+- [Visite o projeto online](https://felipe-ago.github.io/TimerPomodoro/)
 
 ## 📝 Licença
 
