@@ -17,7 +17,7 @@ Timer Pomodoro é um projeto desenvolvido para auxiliar na concetração de afaz
 <br>
 
 <p align="center">
-  <img alt="projeto Timer Pomodoro" src="./img/preview.jpg" width="100%">
+  <img alt="projeto Timer Pomodoro" src="./img/Gif Final.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
